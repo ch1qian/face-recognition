@@ -1,0 +1,3 @@
+这个程序首先运行savefb_face.m文件，然后运行identification文件；
+fb_fave是训练集，fa_face是测试集；
+GUI界面第一张图像是测试图像，第二张图像是LBP特征图谱，第三张图是对应fb_face的人脸。
